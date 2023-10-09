@@ -33,6 +33,7 @@
 .container{
     text-align: center; 
     background-color: lightcoral;
+    width: 100vw;
 }
 .container div{min-height: 20vh;}
 
@@ -47,6 +48,7 @@
     }
 .sidelinks a{display:block;}
 .sidelinks img{margin-top: 5px}
+
 .main-content{
     display:inline-block; 
     border: 1px solid black; 
